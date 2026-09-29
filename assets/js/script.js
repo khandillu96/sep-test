@@ -1,3 +1,1 @@
-/* Author: 
-
-*/
+console.log("h1 this is dilshad khan from azamghar");
